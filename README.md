@@ -1,1 +1,1 @@
-#Improve your codding skills in css
+#Improve your coding skills in css
